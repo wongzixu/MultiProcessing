@@ -1,0 +1,4 @@
+*.pdf
+matrix_set.npy
+__pycache__/
+python.py
